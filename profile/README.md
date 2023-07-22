@@ -13,3 +13,5 @@ Thanks for you patient and understand. :)
 [HelloVN](https://github.com/HelloVNProject/HelloVN): The game that you played.
 
 [Backend](https://github.com/HelloVNProject/Backend): The backend of API service.
+
+[Assets](https://github.com/HelloVNProject/Assets): The original assets files.
