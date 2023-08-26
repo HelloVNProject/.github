@@ -4,7 +4,7 @@
 
 This game build by Godot Engine, the backend build by Node.js .
 
-Still, this game is working in process to developing, if you interest, please follow this project and it expected to be released around August 1st.
+Still, this game is working in process to developing, if you interest, please follow this project.
 
 Thanks for you patient and understand. :)
 
